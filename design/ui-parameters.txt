@@ -1,0 +1,25 @@
+Es el UI Kit que siempre uso en mis proyectos
+No me pirateen x.x
+
+# Referencias
+- Mi proyecto de Estructuras de Datos xd: https://www.figma.com/file/xlEkTSrRzVG206TqjYfuGG/Untitled?type=design&node-id=0-1&mode=design&t=LP7x81yfRWEjerRD-0
+- Mi proyecto de Chumacero: https://jorgektch.github.io/calculadora-de-amortizaciones/
+
+# Colores
+
+Azul
+#003050
+
+Turquesa
+#00A5B6
+
+Gris
+#6C6170
+
+# Fuente
+Lexend
+https://fonts.google.com/specimen/Lexend
+(Está disponible en Figma también)
+
+Es el UI Kit que siempre uso en mis proyectos
+No me pirateen x.x
