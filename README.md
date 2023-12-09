@@ -1,15 +1,11 @@
-# APIS (Anti Pigeon Intelligent System)
+# APIS 
+Anti Pigeon Intelligent System
 
-Sistema Inteligente Anti Palomas
+## Technologies
+- Django
+- OpenCV
+- ESP32
+- Arduino
 
-## Presentación
-
-URL Canva: https://www.canva.com/design/DAF1bbxxpAc/BdC7XWTE5q4LYlQMSiGj0Q/edit
-
-## API
-
-URL API: https://shark-app-ko77v.ondigitalocean.app/
-
-## Panel de monitoreo
-
-URL Pane de Control: https://shark-app-ko77v.ondigitalocean.app/admin
+## Description
+APIS is an IoT technology with a software and a hardware architecture. It pretends to scare pigeons from house roofs by detecting them with the camera and sending the image to a django backend, and using AI determines wether it is a pigeon or not, depending on the response, the hardware acts in a different way.
